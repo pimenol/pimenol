@@ -1,4 +1,4 @@
-# Hi, I'm Olga
+# Hi, I'm Helga
 
 I'm a second year student at CTU FEE.
 
