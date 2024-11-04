@@ -1,6 +1,6 @@
 # Hi, I'm Helga
 
-I'm a second year student at CTU FEE.
+I'm a third year student at CTU FEE.
 
 ## Skills 
 
